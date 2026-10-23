@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "Little Genius Quest",
+  "short_name": "Genius Quest",
+  "description": "Playful learning adventures for little explorers.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f1f7ff",
+  "theme_color": "#263e69",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

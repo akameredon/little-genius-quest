@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#263e69"/>
+  <circle cx="256" cy="230" r="145" fill="#ffe8a8"/>
+  <path d="M180 220c0-44 32-76 76-76s76 32 76 76v76H180z" fill="#fff"/>
+  <path d="M204 218c0-28 22-50 52-50s52 22 52 50" fill="none" stroke="#263e69" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="220" cy="235" r="12" fill="#263e69"/><circle cx="292" cy="235" r="12" fill="#263e69"/>
+  <path d="M229 270q27 24 54 0" fill="none" stroke="#263e69" stroke-width="12" stroke-linecap="round"/>
+  <path d="M115 118l14 29 32 5-23 22 5 32-28-15-29 15 6-32-24-22 33-5z" fill="#fff"/>
+  <path d="M378 306l12 24 27 4-20 19 5 27-24-13-24 13 5-27-20-19 27-4z" fill="#52bd8a"/>
+  <text x="256" y="426" text-anchor="middle" font-family="Arial,sans-serif" font-size="45" font-weight="800" fill="#fff">LGQ</text>
+</svg>
